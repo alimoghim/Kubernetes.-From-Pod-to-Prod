@@ -8,12 +8,19 @@
 ✅ What Kubernetes actually is (minus the buzzwords)
 
 ✅ Core components explained (Pods, Deployments, Services)
+
 ✅ Setting up clusters locally (Minikube, kind, or K3s)
+
 ✅ Deploying your first containerized app
+
 ✅ Common kubectl commands and flags
+
 ✅ YAML demystified — with real examples
+
 ✅ Managing configs: ConfigMaps, Secrets, and environment variables
+
 ✅ Debugging, scaling, and troubleshooting basics
+
 ✅ Understanding Namespaces and resource isolation
 ✅ Rolling updates, rollbacks, and deployment strategies
 ✅ Intro to Helm for managing complex applications
