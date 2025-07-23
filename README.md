@@ -22,13 +22,23 @@
 ✅ Debugging, scaling, and troubleshooting basics
 
 ✅ Understanding Namespaces and resource isolation
+
 ✅ Rolling updates, rollbacks, and deployment strategies
+
 ✅ Intro to Helm for managing complex applications
+
 ✅ Networking fundamentals: ClusterIP, NodePort, LoadBalancer
+
 ✅ Health checks: Liveness and Readiness Probes
+
 ✅ Logging and monitoring overview (kubectl logs, Prometheus, Grafana)
+
 ✅ RBAC basics: Roles, RoleBindings, and security best practices
+
 ✅ Tips for CI/CD integration with Kubernetes
+
 ✅ Common mistakes beginners make — and how to avoid them
+
 ✅ Real-world use cases: From dev environments to production workloads
+
 Whether you're a developer, SRE, or just cloud-curious — this guide is for you.
