@@ -4,7 +4,9 @@
 
  I just put together a practical Kubernetes guide to help you get started (or level up) — no fluff, just clear steps and real-world tips.
 🔧 What’s inside:
+
 ✅ What Kubernetes actually is (minus the buzzwords)
+
 ✅ Core components explained (Pods, Deployments, Services)
 ✅ Setting up clusters locally (Minikube, kind, or K3s)
 ✅ Deploying your first containerized app
